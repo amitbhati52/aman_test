@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.saucelabs</groupId>
 	<artifactId>sauce_appium_junit</artifactId>
-	<version>1.0.4-SNAPSHOT</version>
+	<version>1.0.4</version>
 	<name>sauce_appium_junit</name>
 	<description>Sample Appium tests using JUnit</description>
 	<scm>
       	  <connection>scm:git:https://github.com/amitbhati52/aman_test.git</connection>
           <developerConnection>scm:git:https://github.com/amitbhati52/aman_test.git</developerConnection>
-   	  <tag>HEAD</tag>
+   	  <tag>sauce_appium_junit-1.0.4</tag>
   </scm>
 	<dependencies>
 		<dependency>
